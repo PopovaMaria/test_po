@@ -3,7 +3,7 @@ import unittest.mock as mock
 
 import pytest
 
-from calculator_presenter import CalculatorPresenter
+from project.calculator_presenter import CalculatorPresenter
 
 
 @pytest.mark.parametrize(

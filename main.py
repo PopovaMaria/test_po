@@ -2,9 +2,9 @@ import sys
 
 from PyQt5.QtWidgets import QApplication
 
-from calculator_view import CalculatorView
-from calculator_presenter import CalculatorPresenter
-from calculator import Calculator
+from project.calculator_view import CalculatorView
+from project.calculator_presenter import CalculatorPresenter
+from project.calculator import Calculator
 
 if __name__ == '__main__':
 

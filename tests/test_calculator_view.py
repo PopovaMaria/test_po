@@ -3,8 +3,8 @@ from unittest.mock import patch, Mock
 import pytest
 from PyQt5 import QtCore
 
-from calculator_view import CalculatorView
-from calculator_presenter import CalculatorPresenter
+from project.calculator_view import CalculatorView
+from project.calculator_presenter import CalculatorPresenter
 
 
 @pytest.mark.parametrize(

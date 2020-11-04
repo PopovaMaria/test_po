@@ -2,8 +2,8 @@ import unittest.mock as mock
 
 import pytest
 
-from calculator import Calculator
-from calculator_presenter import CalculatorPresenter
+from project.calculator import Calculator
+from project.calculator_presenter import CalculatorPresenter
 
 
 @pytest.fixture
